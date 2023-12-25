@@ -27,18 +27,7 @@ This comprehensive study aims to explore the intricacies of 2022 flu vaccination
 
 
 ### Objective
-Develop a flu shots dashboard that provides:
-
-Percentage breakdown of patients receiving flu shots by:
-Age
-Race
-County (geographical representation)
-Overall percentage for 2022
-Cumulative count of flu shots administered throughout 2022.
-Total number of flu shots administered in 2022.
-List of patients indicating their flu shot status.
-Requirements:
-Patients considered must be 'Active' at our 'Hospital'.
+This 2022 study delves into the detailed patterns of flu vaccinations using synthetic data from Synthea for a theoretical hospital. Beyond just analyzing the data, the goal is to design an intuitive dashboard highlighting key statistics and trends. The main objectives are to present a segmented view of flu shot recipients based on age, race, and county, an overall 2022 vaccination rate, a running tally of flu shots given throughout the year, the total count of flu vaccinations for the year, and a patient-specific list detailing their vaccination status. The focus is on 'Active' patients within a hypothetical hospital setting.
 
 ### Data Sources
 The study relies on synthetic data generated via Synthea, ensuring privacy compliance while offering comprehensive data points.
