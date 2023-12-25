@@ -23,6 +23,8 @@
 ### Project Overview
 This comprehensive study aims to explore the intricacies of 2022 flu vaccination trends. In addition to the analytical insights, the study's objective extends to creating a user-friendly dashboard that encapsulates critical metrics and patterns.
 
+![Flu shots dashboard](https://github.com/Ashir-Bashir/Flu-Shots-Data-Analysis-Project/assets/152665079/6d1034e3-a747-4585-96f5-62241e086449)
+
 
 ### Objective
 Develop a flu shots dashboard that provides:
