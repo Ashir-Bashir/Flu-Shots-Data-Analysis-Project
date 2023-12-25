@@ -137,12 +137,6 @@ Local Initiatives: Instead of adopting a one-size-fits-all approach, it's essent
 
 Continuous Monitoring: The healthcare landscape, particularly regarding vaccinations, is ever-changing. Therefore, it's vital to establish robust feedback mechanisms that facilitate ongoing evaluation and adaptation of our strategies. By consistently monitoring vaccination rates, gathering feedback from communities, and assessing the effectiveness of our interventions, we can adjust and refine our approaches as necessary, ensuring our efforts remain pertinent and effective.
 
-# Dashboard Features
-Age, Race, and County-based Analysis: Visual representation of flu shot percentages across different demographic categories.
-Running Total: Dynamic visualization showcasing the cumulative count of flu shots over 2022.
-Total Shots: Display of the aggregate number of flu shots administered.
-Patient List: A curated list detailing individual flu shot statuses.
-
 ### Limitations
 This project provides valuable insights based on data from the year 2022. However, it's crucial to recognise its temporal limitations; the data represents a particular moment and may not reflect evolving patterns or changes in subsequent years. While synthetic data serves its purpose for modelling scenarios, it does introduce a level of detachment from genuine real-world dynamics, potentially impacting the project's relevance and conclusions. Additionally, external factors, such as public health initiatives or broader societal behaviours, could significantly shape vaccination trends. Understanding and acknowledging these external dynamics is essential for interpreting findings within a wider context and ensuring the project's insights retain their relevance and applicability.
 Time-bound to 2022; subsequent years might exhibit different trends.
